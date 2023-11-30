@@ -3,7 +3,7 @@ import Home from './pages/Home';
 
 const App = () => {
   return (
-    <div>
+    <div className='flex bg-[#FAFAFA] w-full justify-center'>
       <Home/>
     </div>
   )
