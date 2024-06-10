@@ -41,7 +41,7 @@ const projectData = [
     name: "Portfolio Website",
     title: "Branding / Personal Portfolio",
     github_url: "https://github.com/AdityaMeena001",
-    deployed_url: "https://www.aditya-meena.live",
+    deployed_url: "https://portfolio.aditya-meena.live/",
     screenshot_url: "portfolio.png",
   },
   {
