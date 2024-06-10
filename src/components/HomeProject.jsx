@@ -4,6 +4,14 @@ import { motion } from "framer-motion";
 
 const projectData = [
   {
+    id:0,
+    name:"Chess Ai",
+    title:"React Chess Game with AI opponent",
+    github_url:"https://github.com/AdityaMeena001/Chess-AI",
+    deployed_url:"https://chess-ai.aditya-meena.live/",
+    screenshot_url:"chess-ai.png"
+  },
+  {
     id: 1,
     name: "WonderNook",
     title: "Full Stack Web App",
@@ -23,7 +31,8 @@ const projectData = [
     id: 3,
     name: "KanBan Board ",
     title: "Quicksell FrontEnd Assignment",
-    github_url: "https://github.com/AdityaMeena001/Quicksell-Frontend-Assignment",
+    github_url:
+      "https://github.com/AdityaMeena001/Quicksell-Frontend-Assignment",
     deployed_url: "https://quicksell.aditya-meena.live/",
     screenshot_url: "quick-sell.png",
   },
